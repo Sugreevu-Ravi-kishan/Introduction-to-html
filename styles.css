@@ -1,0 +1,27 @@
+
+body{
+  background-color: #CDF0EA;
+}
+hr{
+  width: 5%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
+img{
+  height: 200px;
+  background-color: green;
+}
+h1{
+  color:#39A2DB;
+}
+h3{
+  color:#39A2DB;
+}
+/*
+.Netflix{
+  background-color: blue;
+}*/
+.hotstar{
+  background-color: green;
+}
